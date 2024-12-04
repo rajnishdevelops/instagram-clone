@@ -1,5 +1,3 @@
-# Instagram Clone - Frontend Learning Project
-
 ## 🌟 Project Overview
 This project is a responsive Instagram-inspired web application created to enhance frontend development skills, focusing on HTML and CSS design techniques.
 
